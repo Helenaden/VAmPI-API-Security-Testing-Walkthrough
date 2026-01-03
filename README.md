@@ -59,7 +59,9 @@ git clone https://github.com/erev0s/VAmPI
 cd VAmPI
 docker-compose up -d
 
-Once it’s running:
+---
+
+## Once it’s running:
 
 - Use http://127.0.0.1:5002 as the base URL
 - Import the Postman collection or OpenAPI spec from the openapi_specs folder
