@@ -1,7 +1,7 @@
 # VAmPI-API-Security-Testing-Walkthrough
 
 This repository is a practical, hands-on walkthrough of **VAmPI (Vulnerable API)**. Here's the [Step-by-step walkthrough on Medium](https://medium.com/@peacedennis/vampi-api-security-testing-walkthrough-ee9811f9494b).
-It shows how common API security issues actually look in the real world—and how they can be chained together to fully compromise an application.
+It shows how common API security issues actually look in the real world, and how they can be chained together to fully compromise an application.
 
 I walked through the API starting with no access, gathering information, and gradually escalating privileges.
 
@@ -52,7 +52,7 @@ All testing is done against the vulnerable instance.
 
 ## Getting Started
 
-If you want to run this locally:
+Here is how to run this locally:
 
 ```bash
 git clone https://github.com/erev0s/VAmPI
@@ -67,7 +67,7 @@ Once it’s running:
 
 ## Why This Project Exists
 
-APIs are everywhere—and they’re often over-trusted.
+APIs are everywhere, and they’re often over-trusted.
 
 This project shows how:
 
@@ -92,7 +92,7 @@ Do not use these techniques on systems you don’t own or have permission to tes
 
 ## Final Thoughts
 
-If you’re serious about API security, the best way to learn is to break things—and understand why they broke. That’s what this project is about.
+If you’re serious about API security, the best way to learn is to break things, and understand why they broke. That’s what this project is about.
 
 Thanks for checking out the repo.  
 If you have questions, feedback, or want to talk API security, feel free to reach out.
