@@ -58,8 +58,7 @@ Here is how to run this locally:
 git clone https://github.com/erev0s/VAmPI
 cd VAmPI
 docker-compose up -d
-
----
+```
 
 ## Once it’s running:
 
