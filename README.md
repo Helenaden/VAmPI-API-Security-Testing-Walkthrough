@@ -77,7 +77,7 @@ This project shows how:
 - Debug endpoints can destroy security
 - Weak crypto breaks everything built on top of it
 
-More than anything, this repo focuses on attacker thinking: how small issues combine into serious compromises.
+This project shows how small issues combine into serious compromises.
 
 ## Who This Is For
 
