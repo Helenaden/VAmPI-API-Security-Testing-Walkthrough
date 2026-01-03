@@ -1,6 +1,6 @@
 # VAmPI-API-Security-Testing-Walkthrough
 
-This repository is a practical, hands-on walkthrough of **VAmPI (Vulnerable API)**. Here's the [Step-by-step walkthrough on Medium](https://medium.com/@peacedennis/vampi-api-security-testing-walkthrough-ee9811f9494b)
+This repository is a practical, hands-on walkthrough of **VAmPI (Vulnerable API)**. Here's the [Step-by-step walkthrough on Medium](https://medium.com/@peacedennis/vampi-api-security-testing-walkthrough-ee9811f9494b).
 It shows how common API security issues actually look in the real world—and how they can be chained together to fully compromise an application.
 
 I walked through the API starting with no access, gathering information, and gradually escalating privileges.
